@@ -30,5 +30,5 @@ The backend file is mainly app.py
 
 ---
 
-## 📂 File Structure
+
 
